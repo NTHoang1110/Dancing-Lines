@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Sourcen/javafx-sdk-23.0.1/lib" />
+      <root url="file://$PROJECT_DIR$/../Sourcen/minim_library/minim_library" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Sourcen/minim_library/minim_library" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../Sourcen/javafx-sdk-23.0.1/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../Sourcen/minim_library/minim_library" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../Sourcen/minim_library/minim_library" recursive="false" type="SOURCES" />
+  </library>
+</component>

@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="javafx-sdk-23.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Sourcen/eibo_simpleminim_new.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Sourcen/mp3agic.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Sourcen/mp3playerUtil.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Sourcen/ProgUtil_StaticScanner.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Sourcen" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Sourcen/ProgUtil_StaticScanner.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Sourcen/05_1_FX_Scene_Grundstruktur/05_1_FX_Scene_Grundstruktur/src" />
+      <root url="file://$PROJECT_DIR$/../Sourcen/06_1_Controller/06_Controller/src" />
+      <root url="file://$PROJECT_DIR$/../Sourcen/javafx-sdk-23.0.1" />
+      <root url="file://$PROJECT_DIR$/../Sourcen" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../Sourcen" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../Sourcen" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../Sourcen/javafx-sdk-23.0.1" recursive="false" type="SOURCES" />
+  </library>
+</component>
